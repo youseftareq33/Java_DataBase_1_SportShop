@@ -67,7 +67,7 @@ import Classes.DeliveryCompany;
 import Classes.Orders;
 import Classes.OrderedItem;
 
-public class Main extends Application {
+public class DriverFx extends Application {
 
 	private ArrayList<User> user_data;
 	private ObservableList<User> user_dataList;
