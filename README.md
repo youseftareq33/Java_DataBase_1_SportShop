@@ -1,3 +1,8 @@
+# Sport Shop Market
+
+this project created in java language and the UI using (java fx) and the database is used
+
+# Project Info:
 this project is about online market that sell sport clothes and deliver them to the customer.
 
 the admin can access to :
@@ -11,6 +16,11 @@ the customer can buy any clothes he want and have cart to store item to buy it a
 
 
 Note that: if u want enter to admin account
+
        Username: admin
+       
        password: admin
+       
 or u can change them from sql code.
+
+
