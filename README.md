@@ -23,4 +23,4 @@ Note that: if u want enter to admin account
        
 or u can change them from sql code.
 
-## Note that there is app_photo folder
+## Note that there is app_photo folder.
